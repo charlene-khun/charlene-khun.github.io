@@ -9,18 +9,10 @@ author_profile: true
 
 **Master of Computer Science**
 
-Relevant coursework:
-- Data Curation
-- Machine Learning
-- Data Analysis
-- Data Visualization
+Your information here.
 
 ## San José State University
 
 **Bachelor of Science in Computer Science**
 
-Relevant coursework:
-- Machine Learning
-- Data Visualization
-- Social Networks
-- Python Programming
+Your information here.
