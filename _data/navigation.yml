@@ -17,8 +17,8 @@ main:
   - title: "Education"
     url: /education/    
     
-  - title: "Resume"
-    url: /resume/
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
