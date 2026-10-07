@@ -1,0 +1,27 @@
+.list__item {
+  width: 100%;
+  display: block;
+  clear: both;
+  float: none;
+  margin-bottom: 3em;
+}
+
+.list__item .archive__item {
+  width: 100%;
+  display: block;
+  clear: both;
+}
+
+.list__item .archive__item-teaser {
+  float: none;
+  width: 100%;
+  display: block;
+  margin-bottom: 1em;
+}
+
+.list__item .archive__item-teaser img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  display: block;
+}
