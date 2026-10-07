@@ -26,20 +26,42 @@
   display: block;
 }
 
-.list__item .archive__item-teaser,
-.list__item .archive__item-teaser:hover,
-.list__item .archive__item:hover .archive__item-teaser {
-  box-shadow: none !important;
-  transform: none !important;
-  opacity: 1 !important;
-}
-
 .list__item .archive__item-teaser img,
 .list__item .archive__item-teaser img:hover,
 .list__item .archive__item:hover .archive__item-teaser img {
   transform: none !important;
   opacity: 1 !important;
   filter: none !important;
+}
+
+/* Remove portfolio image hover effect completely */
+.list__item a:hover,
+.list__item .archive__item:hover,
+.list__item .archive__item-teaser:hover,
+.list__item .archive__item-teaser a:hover {
+  background: none !important;
+  box-shadow: none !important;
+  transform: none !important;
+  opacity: 1 !important;
+}
+
+.list__item .archive__item-teaser img,
+.list__item .archive__item-teaser:hover img,
+.list__item .archive__item:hover img,
+.list__item a:hover img {
+  transform: none !important;
+  opacity: 1 !important;
+  filter: none !important;
+  box-shadow: none !important;
+}
+
+.list__item .archive__item-teaser::before,
+.list__item .archive__item-teaser::after,
+.list__item .archive__item-teaser:hover::before,
+.list__item .archive__item-teaser:hover::after {
+  display: none !important;
+  opacity: 0 !important;
+  background: none !important;
 }
 
 
