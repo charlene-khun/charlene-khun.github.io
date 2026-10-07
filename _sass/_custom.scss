@@ -25,3 +25,21 @@
   height: auto;
   display: block;
 }
+
+.list__item .archive__item-teaser,
+.list__item .archive__item-teaser:hover,
+.list__item .archive__item:hover .archive__item-teaser {
+  box-shadow: none !important;
+  transform: none !important;
+  opacity: 1 !important;
+}
+
+.list__item .archive__item-teaser img,
+.list__item .archive__item-teaser img:hover,
+.list__item .archive__item:hover .archive__item-teaser img {
+  transform: none !important;
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+
