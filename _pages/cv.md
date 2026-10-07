@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/Charlene_Khun_Resume.pdf" class="btn btn--primary">Download Resume (PDF)</a>
+<a href="/files/KhunWorkResume.pdf" class="btn btn--primary">Download Resume (PDF)</a>
 
 ## Education
 
