@@ -24,7 +24,7 @@ A.S. in Mathematics, Ohlone College, May 2021
 ### Automobile Efficiency Narrative Visualization
 
 **August 2026**
-**Technologies:** D3.js, JavaScript, HTML, CSS
+### **Technologies:** D3.js, JavaScript, HTML, CSS
 
 - Developed an interactive narrative visualization analyzing relationships among engine cylinders, city/highway fuel efficiency, and fuel type using a 2017 automobile dataset.
 
@@ -36,7 +36,7 @@ A.S. in Mathematics, Ohlone College, May 2021
 ### COVID-19 Trends & Geographic Analysis Dashboard
 
 **June 2026**
-#### **Technology:** Tableau
+### **Technology:** Tableau
 
 - Developed an interactive Tableau dashboard analyzing state-level U.S. COVID-19 cases and deaths.
 
@@ -60,7 +60,7 @@ A.S. in Mathematics, Ohlone College, May 2021
 ### NYPL Data Cleaning & Analysis Project
 
 **June 2026 – August 2026**
-#### **Technologies:** OpenRefine, SQL, Python, Pandas
+### **Technologies:** OpenRefine, SQL, Python, Pandas
 
 - Profiled and cleaned historical restaurant-menu data by identifying missing values, invalid dates, inconsistent currencies, pricing anomalies, and unnecessary attributes across four relational datasets.
 
