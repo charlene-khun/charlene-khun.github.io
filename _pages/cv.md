@@ -23,8 +23,8 @@ A.S. in Mathematics, Ohlone College, May 2021
 
 ### Automobile Efficiency Narrative Visualization
 
-**August 2026**
-**Technologies:** D3.js, JavaScript, HTML, CSS
+<div><strong>August 2026</strong></div>
+<div><strong>Technologies:</strong> D3.js, JavaScript, HTML, CSS</div>
 
 - Developed an interactive narrative visualization analyzing relationships among engine cylinders, city/highway fuel efficiency, and fuel type using a 2017 automobile dataset.
 
@@ -35,8 +35,8 @@ A.S. in Mathematics, Ohlone College, May 2021
 
 ### COVID-19 Trends & Geographic Analysis Dashboard
 
-**June 2026**<br>
-**Technologies:** Tableau
+<div><strong>June 2026</strong></div>
+<div><strong>Technologies:</strong> Tableau</div>
 
 - Developed an interactive Tableau dashboard analyzing state-level U.S. COVID-19 cases and deaths.
 
@@ -46,8 +46,8 @@ A.S. in Mathematics, Ohlone College, May 2021
 
 ### SF Rent Analysis & Prediction
 
-**April 2025 – May 2025**<br>
-**Technologies:** Python, Pandas, Seaborn, scikit-learn
+<div><strong>April 2025 – May 2025</strong></div>
+<div><strong>Technologies:</strong> Python, Pandas, Seaborn, scikit-learn</div>
 
 - Cleaned and transformed San Francisco rental housing data by handling missing values, standardizing data types, removing irrelevant fields, and engineering features.
 
@@ -59,8 +59,9 @@ A.S. in Mathematics, Ohlone College, May 2021
 
 ### NYPL Data Cleaning & Analysis Project
 
-**June 2026 – August 2026**<br>
-**Technologies:** OpenRefine, SQL, Python, Pandas
+<div><strong>June 2026 – August 2026</strong></div>
+<div><strong>Technologies:</strong> OpenRefine, SQL, Python, Pandas</div>
+
 
 - Profiled and cleaned historical restaurant-menu data by identifying missing values, invalid dates, inconsistent currencies, pricing anomalies, and unnecessary attributes across four relational datasets.
 
