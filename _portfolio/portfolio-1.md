@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Automobile Efficiency Narrative Visualization"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/pic1.jpg'>"
 collection: portfolio
 ---
 
