@@ -12,10 +12,7 @@ main:
     url: /
 
   - title: "Portfolio"
-    url: /portfolio/    
-
-  - title: "Education"
-    url: /education/    
+    url: /portfolio/  
     
   - title: "CV"
     url: /cv/
