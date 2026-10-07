@@ -1,3 +1,4 @@
+/* Portfolio layout */
 .list__item {
   width: 100%;
   display: block;
@@ -10,6 +11,9 @@
   width: 100%;
   display: block;
   clear: both;
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
 }
 
 .list__item .archive__item-teaser {
@@ -17,6 +21,8 @@
   width: 100%;
   display: block;
   margin-bottom: 1em;
+  background: transparent !important;
+  box-shadow: none !important;
 }
 
 .list__item .archive__item-teaser img {
@@ -24,42 +30,38 @@
   max-width: 500px;
   height: auto;
   display: block;
-}
 
-.list__item .archive__item-teaser img,
-.list__item .archive__item-teaser img:hover,
-.list__item .archive__item:hover .archive__item-teaser img {
   transform: none !important;
+  transition: none !important;
   opacity: 1 !important;
   filter: none !important;
+  box-shadow: none !important;
 }
 
-/* Remove portfolio image hover effect completely */
-.list__item a:hover,
+/* Remove ALL hover behavior from portfolio cards */
+.list__item:hover,
 .list__item .archive__item:hover,
 .list__item .archive__item-teaser:hover,
-.list__item .archive__item-teaser a:hover {
-  background: none !important;
+.list__item .archive__item:hover .archive__item-teaser,
+.list__item .archive__item:hover .archive__item-teaser img,
+.list__item .archive__item-teaser:hover img {
+  background: transparent !important;
   box-shadow: none !important;
   transform: none !important;
-  opacity: 1 !important;
-}
-
-.list__item .archive__item-teaser img,
-.list__item .archive__item-teaser:hover img,
-.list__item .archive__item:hover img,
-.list__item a:hover img {
-  transform: none !important;
+  transition: none !important;
   opacity: 1 !important;
   filter: none !important;
-  box-shadow: none !important;
 }
 
+/* Remove theme pseudo-element overlays */
+.list__item::before,
+.list__item::after,
+.list__item .archive__item::before,
+.list__item .archive__item::after,
 .list__item .archive__item-teaser::before,
-.list__item .archive__item-teaser::after,
-.list__item .archive__item-teaser:hover::before,
-.list__item .archive__item-teaser:hover::after {
+.list__item .archive__item-teaser::after {
   display: none !important;
+  content: none !important;
   opacity: 0 !important;
   background: none !important;
 }
