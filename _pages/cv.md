@@ -47,7 +47,7 @@ A.S. in Mathematics, Ohlone College, May 2021
 ### SF Rent Analysis & Prediction
 
 **April 2025 – May 2025**
-#### **Technologies: Python, Pandas, Seaborn, scikit-learn**
+### **Technologies: Python, Pandas, Seaborn, scikit-learn**
 
 - Cleaned and transformed San Francisco rental housing data by handling missing values, standardizing data types, removing irrelevant fields, and engineering features.
 
