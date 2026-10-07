@@ -11,11 +11,11 @@ redirect_from:
 
 ## Education
 
-M.S. (MCS) in Computer Science, University of Illinois Urbana-Champaign, 2026 (Expected)
+M.S. (MCS) in Computer Science, University of Illinois Urbana-Champaign, Dec 2026 (Expected)
 
-B.S. in Computer Science, San Jose State University, 2025
+B.S. in Computer Science, San Jose State University, May 2025
 
-A.S. in Mathematics, Ohlone College, 2021
+A.S. in Mathematics, Ohlone College, May 2021
 
 ## Project Experience
 
