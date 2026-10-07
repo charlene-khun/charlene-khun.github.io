@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/Charlene_Khun_Resume.pdf" class="btn btn--primary">Download Resume (PDF)</a>
+
 ## Education
 
 M.S. (MCS) in Computer Science, University of Illinois Urbana-Champaign, Dec 2026 (Expected)
@@ -75,3 +77,5 @@ A.S. in Mathematics, Ohlone College, May 2021
 - **Data Visualization**: Tableau, D3.js, Data Storytelling
 
 - **Tools & Technologies**: Pandas, scikit-learn, OpenRefine, HTML/CSS, GitHub, AWS
+
+
