@@ -1,64 +1,76 @@
----
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv
----
+
+/cv
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+M.S. (MCS) in Computer Science, University of Illinois Urbana-Champaign, 2026 (Expected)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+B.S. in Computer Science, San Jose State University, 2025
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+A.S. in Mathematics, Ohlone College, 2021
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Project Experience
+
+### Automobile Efficiency Narrative Visualization
+
+**August 2026**
+**Technologies:** D3.js, JavaScript, HTML, CSS
+
+- Developed an interactive narrative visualization analyzing relationships among engine cylinders, city/highway fuel efficiency, and fuel type using a 2017 automobile dataset.
+
+- Performed data parsing, validation, aggregation, and linear regression analysis.
+
+- Created scatter plots, grouped bar charts, annotations, interactive tooltips, and dynamic filtering for gasoline, diesel, and electric vehicle comparisons.
+
+
+### COVID-19 Trends & Geographic Analysis Dashboard
+
+**June 2026**
+**Technology:** Tableau
+
+- Developed an interactive Tableau dashboard analyzing state-level U.S. COVID-19 cases and deaths.
+
+- Created choropleth and time-series visualizations with interactive tooltips and cross-filtering.
+
+- Enabled users to identify geographic patterns, compare trends over time, and investigate changes in cases and deaths.
+
+### SF Rent Analysis & Prediction
+
+**April 2025 – May 2025**
+**Technologies: Python, Pandas, Seaborn, scikit-learn**
+
+- Cleaned and transformed San Francisco rental housing data by handling missing values, standardizing data types, removing irrelevant fields, and engineering features.
+
+- Conducted exploratory data analysis using correlation matrices, histograms, pair plots, and choropleth maps.
+
+- Evaluated regression models using RMSE, MAE, and R² and identified Random Forest as the best-performing model.
+
+- Used feature-importance analysis to identify major factors associated with rental prices.
+
+### NYPL Data Cleaning & Analysis Project
+
+**June 2026 – August 2026**
+**Technologies:** OpenRefine, SQL, Python, Pandas
+
+- Profiled and cleaned historical restaurant-menu data by identifying missing values, invalid dates, inconsistent currencies, pricing anomalies, and unnecessary attributes across four relational datasets.
+
+- Prepared more than 1.3 million menu-item records for analysis by standardizing data types, filtering records to comparable historical periods and currencies, and preserving valid relational keys.
+
+- Collaborated on SQL-based data validation and integrity constraints and documented transformation histories to support reproducible historical menu-price analysis.
+
+## Skills
+
+- **Programming & Analysis**: Python, SQL, JavaScript
+
+- **Data Analysis**: Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Data Transformation, Data Validation
+
+- **Data Visualization**: Tableau, D3.js, Data Storytelling
+
+- **Tools & Technologies**: Pandas, scikit-learn, OpenRefine, HTML/CSS, GitHub, AWS
