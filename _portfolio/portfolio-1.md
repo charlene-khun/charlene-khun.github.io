@@ -1,6 +1,6 @@
 ---
 title: "Automobile Efficiency Narrative Visualization"
-excerpt: "Short description of portfolio item number 1"
+excerpt: "Interactive narrative visualization analyzing automobile fuel efficiency."
 collection: portfolio
 header:
   teaser: pic1.jpg
