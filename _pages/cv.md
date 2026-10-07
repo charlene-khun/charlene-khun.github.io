@@ -35,7 +35,7 @@ A.S. in Mathematics, Ohlone College, May 2021
 
 ### COVID-19 Trends & Geographic Analysis Dashboard
 
-**June 2026**
+**June 2026**<br>
 **Technologies:** Tableau
 
 - Developed an interactive Tableau dashboard analyzing state-level U.S. COVID-19 cases and deaths.
@@ -46,7 +46,7 @@ A.S. in Mathematics, Ohlone College, May 2021
 
 ### SF Rent Analysis & Prediction
 
-**April 2025 – May 2025**
+**April 2025 – May 2025**<br>
 **Technologies:** Python, Pandas, Seaborn, scikit-learn
 
 - Cleaned and transformed San Francisco rental housing data by handling missing values, standardizing data types, removing irrelevant fields, and engineering features.
@@ -59,7 +59,7 @@ A.S. in Mathematics, Ohlone College, May 2021
 
 ### NYPL Data Cleaning & Analysis Project
 
-**June 2026 – August 2026**
+**June 2026 – August 2026**<br>
 **Technologies:** OpenRefine, SQL, Python, Pandas
 
 - Profiled and cleaned historical restaurant-menu data by identifying missing values, invalid dates, inconsistent currencies, pricing anomalies, and unnecessary attributes across four relational datasets.
