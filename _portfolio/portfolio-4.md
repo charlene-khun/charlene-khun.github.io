@@ -5,3 +5,5 @@ collection: portfolio
 header:
   teaser: pic4.png
 ---
+
+This project focused on cleaning and preparing historical restaurant-menu data from the New York Public Library for reliable analysis.
