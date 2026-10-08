@@ -18,3 +18,7 @@ The primary stakeholders for this project are **vehicle consumers, automotive in
 
 **Project Repository:** [View on GitHub](https://github.com/charlene-khun/Khun416NarrativeVisualizationProject)
 
+<a href="{{ '/portfolio/' | relative_url }}" class="btn btn--primary">
+  ← Back to Portfolio
+</a>
+
