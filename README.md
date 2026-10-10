@@ -1,8 +1,22 @@
 # Charlene Khun | Personal Portfolio Website
 
+# Charlene Khun | Data Analytics & Data Science Portfolio
+
 Welcome to my personal portfolio website!
 
-**Live Website:** [charlene-khun.github.io](https://charlene-khun.github.io/)
+I'm a Computer Science graduate from San Jose State University and currently pursuing my Master's in Computer Science at the University of Illinois Urbana-Champaign (UIUC).
+
+I'm an aspiring Data Analyst and Data Scientist with interests in data cleaning, exploratory data analysis, machine learning, statistical analysis, and interactive data visualization.
+
+This portfolio showcases my academic and personal projects using Python, SQL, Tableau, D3.js, and other analytical tools to solve real-world problems and communicate data-driven insights.
+
+**Currently seeking entry-level Data Analyst and Data Scientist opportunities.**
+
+**Live Portfolio:** https://charlene-khun.github.io/
+
+**LinkedIn:** https://www.linkedin.com/in/charlene-khun/
+
+## Website Features
 
 ## Website Features
 
