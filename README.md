@@ -1,5 +1,3 @@
-# Charlene Khun | Personal Portfolio Website
-
 # Charlene Khun | Data Analytics & Data Science Portfolio
 
 Welcome to my personal portfolio website!
