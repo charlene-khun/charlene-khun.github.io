@@ -4,10 +4,7 @@ title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
-
-# About me
 
 Hi! I'm Charlene Khun, a Computer Science graduate from San Jose State University and currently pursuing my Master's in Computer Science at the University of Illinois Urbana-Champaign (UIUC).
 
